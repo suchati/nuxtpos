@@ -1,4 +1,4 @@
-# pos
+# nuxtpos
 
 ## Build Setup
 
