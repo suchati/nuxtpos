@@ -67,7 +67,7 @@ export default {
 
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
   axios: {
-    baseURL: 'https://nuxtpos.herokuapp.com/api'
+    baseURL: '/api'
   },
 
   auth: {
